@@ -1,0 +1,22 @@
+-.플러그인
+Intellicode
+indent-rainbow
+Image preview - show image (체크해제)
+GitHub Theme
+Material Icon Theme
+Prettier - forma (포맷터 변경, on save 체크)
+Live Server
+
+Settings Sync
+ESLint
+GitLens - e619b4da-5de7-40f1-a301-e378862794b3
+multiple cursor case preseve
+code snap
+
+korean language pack
+
+GitHub CoPilot
+python
+
+-.setting
+stickey
