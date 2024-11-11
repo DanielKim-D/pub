@@ -15,6 +15,11 @@ code snap
 
 korean language pack
 
+Turbo Console Log
+Bookmarks
+Project Manager
+Polacode
+
 GitHub CoPilot
 python
 
