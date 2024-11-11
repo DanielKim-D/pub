@@ -20,8 +20,17 @@ Bookmarks
 Project Manager
 Polacode
 
+Continue
+Supermaven
+
 GitHub CoPilot
 python
 
 -.setting
 stickey
+
+-.Git
+git bash
+git config --global user.name "DanielKim-D"
+git config --global user.email protoco@naver.com
+git config --list
