@@ -10,6 +10,7 @@ Live Server
 Settings Sync
 ESLint
 GitLens - e619b4da-5de7-40f1-a301-e378862794b3
+Git Graph
 multiple cursor case preseve
 code snap
 
@@ -19,6 +20,9 @@ Turbo Console Log
 Bookmarks
 Project Manager
 Polacode
+
+Remote - SSH
+AiCodeHelper
 
 Continue
 Supermaven
@@ -30,7 +34,20 @@ python
 stickey
 
 -.Git
-git bash
+git bash 실행
 git config --global user.name "DanielKim-D"
 git config --global user.email protoco@naver.com
 git config --list
+
+-.단축
+Command Palette - Ctrl+shift+P, F1
+Quick Open - Ctrl+P
+User Settings - Ctrl+,
+Toggle Sidebar - Ctrl+B
+Toggle Terminal - Ctrl+`
+Keyboard Shortcuts - Ctrl+K+S
+Move Line up/down - Alt+위/아래
+Insert Line below - Ctrl+Enter
+Undo last Cursor - Ctrl+U
+Insert Cursor - Alt+Click, Shift+Alt+Drag mouse(선택블럭의 마지막), Shift+Alt+I(선택블럭의 마지막)
+
