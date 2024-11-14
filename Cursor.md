@@ -1,4 +1,5 @@
-Cursor AI 기본 사용법
+## Cursor AI 기본 사용법
+
     1. 프로젝트 생성 및 파일 관리
         새 프로젝트 생성: 파일 > 새창
         Open a Folder: 프로젝트 폴더 열기 (새로운 프로젝트 생성시 새로운 폴더를 만듭니다.
@@ -11,7 +12,8 @@ Cursor AI 기본 사용법
         Cursor AI를 사용하면 자연어로 코드를 생성할 수 있습니다.
         Cmd+K (Windows의 경우 Ctrl+K)를 눌러 명령 입력 창을 엽니다.
 
-Cursor AI 고급 기능
+## Cursor AI 고급 기능
+
     1. 멀티 파일 분석
         Cursor AI는 프로젝트 내의 여러 파일을 동시에 분석할 수 있습니다.
         채팅 창에서 '+' 버튼을 클릭하여 추가 파일을 선택합니다.
@@ -22,7 +24,7 @@ Cursor AI 고급 기능
     3. 문서화 자동 생성
         Cmd+K를 누르고 "이 코드에 대한 문서 주석을 작성해줘"라고 입력합니다.
 
+## 참고 링크:
 
-참고 링크:
 Cursor AI 공식 웹사이트: https://www.cursor.com/
-Cursor AI 사용 가이드: https://docs.cursor.com/get-started/migrate-from-vscode        
+Cursor AI 사용 가이드: https://docs.cursor.com/get-started/migrate-from-vscode

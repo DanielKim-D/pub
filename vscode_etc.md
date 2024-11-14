@@ -1,4 +1,5 @@
--.플러그인
+## 플러그인
+
 Intellicode
 indent-rainbow
 Image preview - show image (체크해제)
@@ -30,16 +31,12 @@ Supermaven
 GitHub CoPilot
 python
 
--.setting
+## setting
+
 stickey
 
--.Git
-git bash 실행
-git config --global user.name "DanielKim-D"
-git config --global user.email protoco@naver.com
-git config --list
+## 단축
 
--.단축
 Command Palette - Ctrl+shift+P, F1
 Quick Open - Ctrl+P
 User Settings - Ctrl+,
@@ -50,6 +47,3 @@ Move Line up/down - Alt+위/아래
 Insert Line below - Ctrl+Enter
 Undo last Cursor - Ctrl+U
 Insert Cursor - Alt+Click, Shift+Alt+Drag mouse(선택블럭의 마지막), Shift+Alt+I(선택블럭의 마지막)
-
-
-
