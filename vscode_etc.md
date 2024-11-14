@@ -25,7 +25,6 @@ Polacode
 Remote - SSH
 AiCodeHelper
 
-Continue
 Supermaven
 
 GitHub CoPilot

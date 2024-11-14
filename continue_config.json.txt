@@ -1,0 +1,23 @@
+{
+  "models": [
+    {
+      "title": "Llama3.1",
+      "provider": "ollama",
+      "model": "llama3.1"
+    }
+  ],
+  "tabAutocompleteModel": {
+    "title": "Tab Autocomplete Model",
+    "provider": "ollama",
+    "model": "deepseek-coder-v2"
+  },
+  "tabAutocompleteOptions": {
+    "useCopyBuffer": false,
+    "maxPromptTokens": 400,
+    "prefixPercentage": 0.5
+  },
+  "embeddingsProvider": {
+    "provider": "ollama",
+    "model": "bge-m3"
+  }
+}

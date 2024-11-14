@@ -1,9 +1,7 @@
-## Git 연결
+## Git 설치
 
-git bash 실행
-git config --global user.name "DanielKim-D"
-git config --global user.email "protoco@naver.com"
-git config --list
+https://docs.github.com/ko/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
+
 
 ## 원격 레포지토리를 확인
 
@@ -23,8 +21,10 @@ git push -u {레파지토리 이름} push
 
 ## 연결 계정 변경하는 법
 
-git config -- global user.name "계정 이름"
-git config -- global user.email "계정 이메일 주소 "
+git bash 실행 - 옵션
+git config --global user.name "DanielKim-D"
+git config --global user.email "protoco@naver.com"
+git config --list
 
 ## 로컬에서 생성한 브랜치 원격에 올리기
 
