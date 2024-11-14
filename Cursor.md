@@ -27,4 +27,5 @@
 ## 참고 링크:
 
 Cursor AI 공식 웹사이트: https://www.cursor.com/
+
 Cursor AI 사용 가이드: https://docs.cursor.com/get-started/migrate-from-vscode
