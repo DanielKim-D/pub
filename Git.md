@@ -34,3 +34,8 @@ git config -- global user.email "계정 이메일 주소 "
 
 올리고 싶은 브랜치로 이동한 뒤
 git push
+
+## 브랜치 생성
+
+그 후 기능 구현을 위해 브랜치를 생성하자.(기본은 main으로 되어있음)
+git checkout -b [branch name]
