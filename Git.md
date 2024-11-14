@@ -2,7 +2,6 @@
 
 https://docs.github.com/ko/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
 
-
 ## 원격 레포지토리를 확인
 
 git remote -v
@@ -22,6 +21,7 @@ git push -u {레파지토리 이름} push
 ## 연결 계정 변경하는 법
 
 git bash 실행 - 옵션
+아래 global 은 계정이 1개일때만 사용
 git config --global user.name "DanielKim-D"
 git config --global user.email "protoco@naver.com"
 git config --list
