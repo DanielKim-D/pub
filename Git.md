@@ -10,6 +10,9 @@ git remote -v
 
 git remote remove {레파지토리 이름}
 
+## 로컬 git 저장소 생성
+git init
+
 ## 새 레포지토리에 연결하고 싶을때
 
 git remote add {레파지토리 이름} "깃허브 주소"
