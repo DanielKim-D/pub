@@ -17,6 +17,7 @@ code snap
 
 korean language pack
 
+Code Spell Checker
 Turbo Console Log
 Bookmarks
 Project Manager
@@ -27,12 +28,17 @@ AiCodeHelper
 
 Supermaven
 
-GitHub CoPilot
+GitHub Copilot
 python
+Rainbow CSV
 
 ## setting
 
 stickey
+auto save
+tab size
+word wrap
+글꼴 - D2Coding
 
 ## 단축
 
@@ -46,3 +52,4 @@ Move Line up/down - Alt+위/아래
 Insert Line below - Ctrl+Enter
 Undo last Cursor - Ctrl+U
 Insert Cursor - Alt+Click, Shift+Alt+Drag mouse(선택블럭의 마지막), Shift+Alt+I(선택블럭의 마지막)
+Theme - Ctrl+K+T
