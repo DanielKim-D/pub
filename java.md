@@ -17,3 +17,4 @@ thymeleaf
 2.Spring Boot 프로젝트 생성
 보기 - 명령 팔레트 (ctrl+shift+p)
 Spring Initializr
+
