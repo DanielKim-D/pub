@@ -1,3 +1,5 @@
+# java
+
 ## 환경변수 추가
 
 고급 시스템 설정 으로 찾기
@@ -17,4 +19,3 @@ thymeleaf
 2.Spring Boot 프로젝트 생성
 보기 - 명령 팔레트 (ctrl+shift+p)
 Spring Initializr
-

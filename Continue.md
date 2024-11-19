@@ -1,3 +1,5 @@
+# Continue
+
 ## Continue 설치
 
 VSCoide의 Extension에서 Continue 설치

@@ -1,4 +1,6 @@
-# 플러그인
+# vs code
+
+## 플러그인
 
 Intellicode
 indent-rainbow
@@ -32,7 +34,7 @@ GitHub Copilot
 python
 Rainbow CSV
 
-# setting
+## setting
 
 stickey
 auto save
@@ -40,7 +42,7 @@ tab size
 word wrap
 글꼴 - D2Coding
 
-# 단축
+## 단축
 
 Command Palette - Ctrl+shift+P, F1
 Quick Open - Ctrl+P

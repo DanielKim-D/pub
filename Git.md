@@ -1,3 +1,5 @@
+# Git
+
 ## Git 설치
 
 https://docs.github.com/ko/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
@@ -11,6 +13,7 @@ git remote -v
 git remote remove {레파지토리 이름}
 
 ## 로컬 git 저장소 생성
+
 git init
 
 ## 새 레포지토리에 연결하고 싶을때

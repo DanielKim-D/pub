@@ -1,4 +1,6 @@
-# db 접속정보
+# Sprint boot?
+
+## db 접속정보
 
 src/main/resources  
 application.properties
@@ -26,3 +28,8 @@ application.properties
 
 - JPA의 구현체인 Hibernate가 동작하면서, 발생한 SQL의 가독성을 높여줌.  
   spring.jpa.properties.hibernate.format_sql=true
+
+## 자동증가값까지 반환으로 받기
+
+Mapper에서
+@Options(useGeneratedKeys=true, keyProperty="컬럼명")
