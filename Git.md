@@ -26,15 +26,15 @@ git push -u {레파지토리 이름} push
 
 ## 연결 계정 변경하는 법
 
-git bash 실행 - 옵션
-아래 global 은 계정이 1개일때만 사용
-git config --global user.name "DanielKim-D"
-git config --global user.email "protoco@naver.com"
+git bash 실행 - 옵션  
+아래 global 은 계정이 1개일때만 사용  
+git config --global user.name "DanielKim-D"  
+git config --global user.email "protoco@naver.com"  
 git config --list
 
 ## 로컬에서 생성한 브랜치 원격에 올리기
 
-올리고 싶은 브랜치로 이동한 뒤
+올리고 싶은 브랜치로 이동한 뒤  
 git push
 
 ## 브랜치 생성
@@ -47,5 +47,5 @@ git switch {branch name}
 
 ## 브랜치 생성
 
-그 후 기능 구현을 위해 브랜치를 생성하자.(기본은 main으로 되어있음)
+그 후 기능 구현을 위해 브랜치를 생성하자.(기본은 main으로 되어있음)  
 git checkout -b [branch name]
